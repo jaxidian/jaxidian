@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shane Milton, a Cloud Solutions Architect who has a deep interest in Quantum Computing.
 - 👀 I’m interested in Cloud things, specifically Azure-related things.
 - 🌱 I’m currently learning what I want to be when I grow up.
+- ✉️ Message me on [LinkedIn](https://www.linkedin.com/in/shanemilton/)
 - 📫 [About Me](https://about.me/jaxidian)
 
 <!---
